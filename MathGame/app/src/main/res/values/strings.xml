@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PuzzleMath</string>
+    <string name="MenuText1">Geometry</string>
+    <string name="MenuText2">Algebra</string>
+    <string name="MenuText3">Trigonometry</string>
+    <string name="MenuText4">Calculus</string>
+    <string name="MenuText5">Probability</string>
+    <string name="MenuText6">Linear Algebra</string>
+
+    <string name="GeometryTitle">Geometry!</string>
+
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_geometry_page">GeometryPage</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
